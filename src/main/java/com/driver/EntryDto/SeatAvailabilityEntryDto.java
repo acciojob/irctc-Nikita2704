@@ -46,3 +46,5 @@ public class SeatAvailabilityEntryDto {
         this.toStation = toStation;
     }
 }
+
+
